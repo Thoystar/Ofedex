@@ -37,5 +37,16 @@
         <Duration>30</Duration>
       </Durations>
     </Anim>
+    <Anim>
+      <Name>Idle</Name>
+      <FrameWidth>48</FrameWidth>
+      <FrameHeight>48</FrameHeight>
+      <Durations>
+        <Duration>8</Duration>
+        <Duration>8</Duration>
+        <Duration>8</Duration>
+        <Duration>8</Duration>
+      </Durations>
+    </Anim>
   </Anims>
 </AnimData>
